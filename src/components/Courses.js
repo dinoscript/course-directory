@@ -25,10 +25,3 @@ const Courses = ({match}) => (
 );
 
 export default Courses;
-
-
-
-
-
-
-
